@@ -365,7 +365,7 @@ export default function Board() {
   return (
     <div className="app-shell">
       <aside className="sidebar">
-        <a className="brand" href="/" aria-label="روشن، تخته پروژه">
+        <a className="brand" href="./" aria-label="روشن، تخته پروژه">
           <span className="brand-icon">
             <Columns3 size={25} strokeWidth={2.5} />
           </span>
